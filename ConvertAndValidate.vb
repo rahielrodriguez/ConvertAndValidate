@@ -1,4 +1,8 @@
-﻿
+﻿'Rahiel Rodriguez
+'RCET0265
+'Spring 2024
+'ConvertAndValidate
+'https://github.com/rahielrodriguez/ConvertAndValidate.git
 Module ConvertAndValidate
 
     Sub Main()
